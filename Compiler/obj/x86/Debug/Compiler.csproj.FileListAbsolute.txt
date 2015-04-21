@@ -1,0 +1,8 @@
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.Form1.resources
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.Properties.Resources.resources
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.csproj.GenerateResource.Cache
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\bin\Debug\Compiler.exe
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\bin\Debug\Compiler.pdb
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.exe
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.pdb
+C:\Users\Галина\Documents\Visual Studio 2010\Projects\Compiler\Compiler\obj\x86\Debug\Compiler.csprojResolveAssemblyReference.cache
